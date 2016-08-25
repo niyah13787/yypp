@@ -6,7 +6,7 @@
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
 #player #play{ background:url(http://25.media.tumblr.com/tumblr_m8x7t86qf11raljfmo2_100.png); }
-#player #play,#player #pause{ left:26px; }
+#player #play,#player #pause{ left:0px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
 #player #title{ left:90px;  font-size: 9px; }
