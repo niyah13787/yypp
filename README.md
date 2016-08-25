@@ -1,5 +1,5 @@
 #player,#player a{ color:#fec2b5;  font-size:12px; font-family:Tahoma;}
-#player{ background:url(http://static.tumblr.com/kwaqeuc/v6Blzyrv4/volumepaz.png); background-position:bottom; background-color: #fec2b5;}
+#player{ background:url(http://static.tumblr.com/kwaqeuc/v6Blzyrv4/volumepaz.png); background-position:bottom; background-color: #FFFFFF;}
 #player .mainImage{ background:url(http://25.media.tumblr.com/tumblr_m8x7t86qf11raljfmo1_400.png); }
 
 #player #baseLeft{ width:93px; }
